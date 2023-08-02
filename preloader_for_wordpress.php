@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Preloader for Wordpress
- * Plugin URI:  https://github.com/wpwebguru/wp_preloader
+ * Plugin URI:  https://github.com/wpwebguru/preloader_for_wordpress
  * Author:      Sunny Hossain
  * Author URI:  https://www.fiverr.com/ictsunny
  * Description: Preloader for Wordpress Website.
